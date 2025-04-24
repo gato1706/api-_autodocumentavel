@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/colinhacks/zod/master/logo.svg" alt="Zod" height="50" style="margin: 0 20px;"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript"  style="margin: 0 20px;" width="50" style="margin: 0 10px"/>
+  <img src="https://w7.pngwing.com/pngs/324/102/png-transparent-fastify-hd-logo.png" alt="Fastify" height="50"  style="margin: 0 20px;"/>
+  
+</p>
+
 # 📘 API Autodocumentável com Fastify, Zod e Swagger
 
 Este projeto é uma API REST simples, autodocumentável, desenvolvida com **Fastify** e **TypeScript**. Utilizamos **Zod** para validação de esquemas e o pacote **swagger-type-provider** para geração automática da documentação com **Swagger UI**. Projeto baseado na aula do Diego Fernandes da Rocketseat: [Link para a aula](https://youtu.be/mULWHLquYP0?si=2kmJfEFkQaZM_zs4)
