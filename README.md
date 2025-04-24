@@ -41,4 +41,4 @@ Este projeto é uma API REST simples, autodocumentável, desenvolvida com **Fast
 
 3. npm run dev para rodar o projeto
    
-4. Acesse a documentação do swagger em sua máquina local no endereço: http://localhost:7676/ **docs**
+4. Acesse a documentação do swagger em sua máquina local no endereço: http://localhost:7676/docs
