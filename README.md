@@ -12,6 +12,7 @@ Este projeto é uma API REST simples, autodocumentável, desenvolvida com **Fast
 - **[@fastify/swagger](https://github.com/fastify/fastify-swagger)** – Integração do Swagger com Fastify
 - **[swagger-type-provider](https://github.com/ronradtke/swagger-type-provider)** – Geração de tipos baseados no schema Zod para Swagger
 
+- ⚠️ Este projeto possui **poucas rotas**, pois o objetivo principal foi **praticar a validação com Zod** e a **documentação automática com Swagger** — com foco total no aprendizado e na construção de uma base bem estruturada.
 ---
 
 ## 🧠 O que você vai ver aqui
@@ -33,4 +34,4 @@ Este projeto é uma API REST simples, autodocumentável, desenvolvida com **Fast
 
 3. npm run dev para rodar o projeto
    
-4. Acesse a documentação do swagger no endereço: http://localhost:7676/ **docs**
+4. Acesse a documentação do swagger em sua máquina local no endereço: http://localhost:7676/ **docs**
